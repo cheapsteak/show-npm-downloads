@@ -1,14 +1,14 @@
 {
   "appName": {
-    "message": "Show NPM Downloads",
+    "message": "显示npm下载量",
     "description": "The name of the application"
   },
   "appShortName": {
-    "message": "NPM Downloads",
+    "message": "npm下载量",
     "description": "The short_name (maximum of 12 characters recommended) is a short version of the app's name."
   },
   "appDescription": {
-    "message": "Displays download statistics of packages in search results",
+    "message": "在npm网站中package搜索结果旁看到周/月下载量",
     "description": "See package download counts in search page"
   }
 }

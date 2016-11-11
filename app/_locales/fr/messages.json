@@ -1,14 +1,14 @@
 {
   "appName": {
-    "message": "Show NPM Downloads",
+    "message": "Montrer npm téléchargement",
     "description": "The name of the application"
   },
   "appShortName": {
-    "message": "NPM Downloads",
+    "message": "NPM téléchargement",
     "description": "The short_name (maximum of 12 characters recommended) is a short version of the app's name."
   },
   "appDescription": {
-    "message": "Displays download statistics of packages in search results",
+    "message": "Affiche les statistiques de téléchargement des packages dans les résultats de la recherche.",
     "description": "See package download counts in search page"
   }
 }
