@@ -8,7 +8,7 @@
     "description": "The short_name (maximum of 12 characters recommended) is a short version of the app's name."
   },
   "appDescription": {
-    "message": "Displays download statistics of packages in search results",
+    "message": "See weekly and monthly download counts of packagse next to search results on npm",
     "description": "See package download counts in search page"
   }
 }
